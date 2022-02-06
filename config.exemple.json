@@ -1,0 +1,5 @@
+{
+    "CURRENT_PLANNING": "data/current_planning.json",
+    "TOKEN_PATH": "token.json",
+    "AUTO_LOGIN": "auth-ceciestunexemple"
+}
